@@ -122,3 +122,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+hw01/book_info.pkl
