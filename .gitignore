@@ -124,3 +124,7 @@ dmypy.json
 .pyre/
 
 hw01/book_info.pkl
+hw02/creditcard.csv
+hw03/creditcard.csv
+3_Визуализация_данных_в_Matplotlib.ipynb
+Обучение_с_учителем_в_Scikit_learn.ipynb
