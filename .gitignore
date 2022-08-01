@@ -129,3 +129,8 @@ hw03/creditcard.csv
 3_Визуализация_данных_в_Matplotlib.ipynb
 Обучение_с_учителем_в_Scikit_learn.ipynb
 5_Обучение_без_учителя_в_Scikit_learn.ipynb
+Web05.ipynb
+
+# pyCharm
+.idea
+.iml
